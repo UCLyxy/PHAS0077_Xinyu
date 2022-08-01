@@ -133,16 +133,9 @@ to restart the program
 
 How users study their own problem
 -------
-1. Put this program under the desktop (any directory users want, here is only an example)
+1. Install this program from github link and open it
 
-open terminal and type
-
-```Bash
-cd Desktop
-pwd
-ls
-cd xinyu_project
-```
+Open the terminal and make sure you have already changed the directory under this program
 ***
 2. execute setup from the command window  or load it into the editor by typing
 ```Bash
